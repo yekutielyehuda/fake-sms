@@ -61,3 +61,5 @@ https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
      If You Like This Tool then Kindly Give us a star. Thanks.....
      
 
+# Usage
+https://rockyjaat111.medium.com/social-engineering-attacks-creating-a-fake-sms-message-8509388be25a
